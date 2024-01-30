@@ -1,5 +1,5 @@
 # Andrew Chen—@andrewchen19
-Hi, I'm Andrew 🖐🏼<br>
+Hi, I'm Andrew 🖐<br>
 A junior frond-end developer and life-long learner 💕
 
 ## Languages and Tools 
@@ -21,9 +21,9 @@ A junior frond-end developer and life-long learner 💕
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
 
 ## Get in touch
-- FaceBook: https://www.facebook.com/profile.php?id=100001427877858
-- LinkedIn: https://www.linkedin.com/in/andrewchen1119/
 - Profolio: https://andrew-project-contentful.netlify.app/
+- LinkedIn: https://www.linkedin.com/in/andrewchen1119/
+- FaceBook: https://www.facebook.com/profile.php?id=100001427877858
 
         
     
