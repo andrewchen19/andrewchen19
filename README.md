@@ -1,6 +1,6 @@
 # Andrew Chen—@andrewchen19
-Hi, I'm Andrew 🖐<br>
-A junior frond-end developer and life-long learner 🌟
+Hi, I'm Andrew 🙌<br>
+A junior frond-end developer and life-long learner 🚀
 
 ## Languages and Tools 
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="40" height="40"/> </span>
@@ -12,10 +12,10 @@ A junior frond-end developer and life-long learner 🌟
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" title="mongodb" width="40" height="40"/></span>
 
 ## My values
-💕 Expression as authentic self<br>
+🌟 Expression as authentic self<br>
 🦄 Safety and trust<br>
 🍏 Beginner's mindset and curiosity<br>
-🙌 Shared understanding and consensus
+💕 Shared understanding and consensus
 
 ## How I work
 My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
