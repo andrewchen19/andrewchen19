@@ -18,7 +18,7 @@ A junior frond-end developer and life-long learner 🚀
 💕 Shared understanding and consensus
 
 ## How I work
-My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 😸
+My motivations are to stabilize and provide clarity through curiosity. That tends to manifest as creating (hopefully) just enough process. Checklists are my absolute favorite. ✅ If I'm too much in my head, feel free to nudge me to share what's in my brain. 👻
 
 ## Get in touch
 - Profolio: https://andrew-project-contentful.netlify.app/
