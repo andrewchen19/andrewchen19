@@ -1,5 +1,5 @@
 # Andrew Chen—@andrewchen19
-Hi, I'm Andrew 🙌<br>
+Hi, I'm Andrew 🖐🏼<br>
 A junior frond-end developer and life-long learner 🚀
 
 ## Languages and Tools 
