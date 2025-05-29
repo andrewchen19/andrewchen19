@@ -1,6 +1,6 @@
 # Andrew Chen—@andrewchen19
 Hi, I'm Andrew 🖐🏼<br>
-A junior frond-end developer and life-long learner 🚀
+A frond-end developer and life-long learner 🚀
 
 ## Languages and Tools 
 <span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="html5" width="40" height="40"/> </span>
